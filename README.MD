@@ -4,7 +4,7 @@
 ##**Run tests:**
 
 Java 1.8
-Gradle 
+Gradle 4.6
 
 
 Cualquier duda, comunicarse a gherardtest@gmail.com
